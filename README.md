@@ -7,6 +7,6 @@
 
 ```bash
 
-git checkout release-1.1
+git checkout dcjet
 
 ```
